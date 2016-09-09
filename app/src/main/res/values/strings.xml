@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Formulir Pendaftaran</string>
+    <string-array name="Nama_Kota">
+        <item>Mojokerto</item>
+        <item>Surabaya</item>
+        <item>Madiun</item>
+        <item>Malang</item>
+        <item>Bondowoso</item>
+    </string-array>
+</resources>
